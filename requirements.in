@@ -1,0 +1,9 @@
+aiohttp
+azure-functions
+azure-functions-durable
+azure-storage-blob
+python-dateutil
+opencensus-extension-azure-functions
+pdfminer.six
+pywin32; sys_platform == 'win32'
+trafilatura
